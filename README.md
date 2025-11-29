@@ -5,6 +5,7 @@
 - Classify documents into categories like **Business, Tech, Medical, Finance**, etc.
 - Generate an **engaging title** for the document
 - Provide **natural language explanations** for both the title and the predicted category
+<img width="1903" height="877" alt="smartdoc" src="https://github.com/user-attachments/assets/3829ae00-925c-4c0e-ae61-662ed5961151" />
 
 ---
 
